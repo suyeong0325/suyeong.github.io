@@ -12,9 +12,6 @@ description: A GIS portfolio with details
 navbar-links:
   Porfolio: ""
   About Me: "aboutme"
-#  Portfolio:
-#    - Water Hyacinth Expansion in Lake Tana: "water_hyacinth"
-#    - Habitat Mapping
 #    - Others: "other_portfolio"
   Linkedin: "https://www.linkedin.com/in/su-yeong-park-249391b8/"
 
@@ -51,7 +48,7 @@ footer-link-col: "#404040"
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: Su Yeong Park
+  name:© Su Yeong Park
 
 # Select your active Social Network Links.
 # Uncomment the links you want to show in the footer and add your information to each link.
