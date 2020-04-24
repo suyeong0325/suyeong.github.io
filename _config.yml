@@ -4,16 +4,18 @@
 title: Portfolio - Su Yeong Park
 
 # Short description of your site
-description: A GIS portfolio with description of my projects
+description: A GIS portfolio with details
 
 # --- Navigation bar options --- #
 
 # List of links in the navigation bar
 navbar-links:
-  Profile: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
-    - Learn markdown: "http://www.markdowntutorial.com/"
+  Home: "index"
+  About Me: "aboutme"
+#  Portfolio:
+#    - Water Hyacinth Expansion in Lake Tana: "water_hyacinth"
+#    - Habitat Mapping
+#    - Others: "other_portfolio"
   Linkedin: "https://www.linkedin.com/in/su-yeong-park-249391b8/"
 
 # Image to show in the navigation bar - image must be a square (width = height)
@@ -51,7 +53,7 @@ footer-link-col: "#404040"
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: Some Person
+  name: Su Yeong Park
 
 # Select your active Social Network Links.
 # Uncomment the links you want to show in the footer and add your information to each link.
