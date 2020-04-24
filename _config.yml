@@ -10,7 +10,7 @@ description: A GIS portfolio with details
 
 # List of links in the navigation bar
 navbar-links:
-  Porfolio: ""
+  Porfolio: "index"
   About Me: "aboutme"
 #    - Others: "other_portfolio"
   Linkedin: "https://www.linkedin.com/in/su-yeong-park-249391b8/"
