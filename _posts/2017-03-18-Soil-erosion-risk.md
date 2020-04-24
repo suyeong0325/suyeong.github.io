@@ -8,6 +8,8 @@ comments: true
 ---
 The overall purpose of the study was the soil erosion risk analyis to provide land use planning support for the surrounding area of Lake Waging, located in the district of Traunstein, Bavaria, Germany.
 
+![soil](/img/soil_sat.jpg)
+
 The land use of Waging region is constantly changing. Intensive farming, housing and development of infrastructure take place at the same time and challenge the aesthetic values of the present. However, there has been still no research of the changes of land-use change in Lake waging region. Now, a multi-disciplinary approach is required.
 Therefore, the study seeks to understand the risk of soil erosion in this area, assess soil erosion risk regarding agriculture and to make management strategies that consider mitigation.
 
