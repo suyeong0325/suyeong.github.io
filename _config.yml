@@ -10,7 +10,7 @@ description: A GIS portfolio with details
 
 # List of links in the navigation bar
 navbar-links:
-  Home: "index"
+  Porfolio: "index"
   About Me: "aboutme"
 #  Portfolio:
 #    - Water Hyacinth Expansion in Lake Tana: "water_hyacinth"
