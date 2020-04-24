@@ -368,8 +368,8 @@ footer .theme-by {
 }
 .post-image {
   float: right;
-  height: 192px;
-  width: 192px;
+  height: 200px;
+  width: 200px;
   margin-top: -35px;
   filter: grayscale(90%);
 }
@@ -377,9 +377,8 @@ footer .theme-by {
   filter: grayscale(0%);
 }
 .post-image img {
-  height: 192px;
-  width: 192px;
-  border-radius: 150px;
+  height: 200px;
+  width: 200px;
 }
 .post-preview .post-read-more {
   font-weight: 800;
