@@ -23,7 +23,7 @@ Six classes, including crop field, maize field, forest, grassland, urban area an
 
 **Land Use Clasification**
 
-![soil_universe](/img/soil_universe.png)
+![soil_universe](/img/soil_universal.png)
 
 The K-factor represents soil erodibility, defined as the soil loss rate per erosion index unit (Wischmeier et al., 1978). In this study, K-factors were already assigned from empirical knowledge.
 The R-factor, the rainfall and runoff factor, defined as the number of rainfall erosion index units, plus a factor for runoff from snowmelt of applied water (Wischmeier et al., 1978). R-factors within Bavaria have already been assigned by Schwertmann et al. (1987). Therefore R-factor was assigned according to municipal area.
