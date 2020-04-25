@@ -5,9 +5,9 @@ subtitle: GIS, Remote Sensing, Data science and Forestry
 ---
 
 ### Skills
-**GIS/RS Skills:** ArcGIS, eCognition, PCI Geomatica
-**Coding Skills:** R, Python (Basic), SQL (Basic)
-**Personal Skills:** Motivated, Flexibility, Curiosity, Willingness to learn
+**GIS/RS Skills:** ArcGIS, eCognition, PCI Geomatica <br>
+**Coding Skills:** R, Python (Basic), SQL (Basic) <br>
+**Personal Skills:** Motivated, Flexibility, Curiosity, Willingness to learn <br>
 
 ### Certifications
 **Databases and SQL for Data Science:** Coursera by IBM
