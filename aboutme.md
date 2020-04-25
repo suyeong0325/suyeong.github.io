@@ -10,7 +10,7 @@ subtitle: GIS, Remote Sensing, Data science and Forestry
 **Personal Skills:** Motivated, Flexibility, Curiosity, Willingness to learn <br>
 
 ### Certifications
-**Databases and SQL for Data Science:** Coursera by IBM
-**Python for Data Science and AI:** Coursera by IBM
-**Open Source tools for Data Science:** Coursera by IBM
-**GuidosToolbox Workshop:** European Commission, Joint Rearch Centre
+**Databases and SQL for Data Science:** Coursera by IBM<br>
+**Python for Data Science and AI:** Coursera by IBM<br>
+**Open Source tools for Data Science:** Coursera by IBM<br>
+**GuidosToolbox Workshop:** European Commission, Joint Rearch Centre<br>
