@@ -19,8 +19,8 @@ Forestry, Environment and System<br>
 ### Experience
 - **Teaching Assistant** at Technical University of Munich, Germany (Nov 2017-Feb 2018)<br>
 Assist teaching in the introduction of GIS and tutorial<br>
-- **Remote Sensing and GIS Intern** at National Park Bavarian Forest, Germany (May 2017-July 2017)<br>
-Habitat mapping, LiDAR data processing, Forest measurement<br>
+- **Remote Sensing and GIS Intern** at Bavarian Forest National Park, Germany (May 2017-July 2017)<br>
+Habitat mapping, LiDAR data processing  Forest measurement<br>
 - **Research Assistant** at Korea Environment Institute, South Korea (Jan 2015-May 2015)<br>
 Cooperative study to enhance urban air quality in East Asia
 - **Intern** at Environmental Counsulting Company Eco-Frontier, South Korea (Feb 2013-Apr 2013)<br>
