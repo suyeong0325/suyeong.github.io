@@ -4,6 +4,7 @@ title: Su Yeong Park
 subtitle: GIS, Remote Sensing, Data science and Forestry
 ---
 
+
 ### Educations
 - **Master of Science** at Technical University of Munich, Germany<br>
 Sustainable Resource Management, specialization of Landscape managment and GIS<br>
