@@ -9,7 +9,7 @@ subtitle: GIS, Remote Sensing, Data science and Forestry
 - **Master of Science** at Technical University of Munich, Germany<br>
 Sustainable Resource Management, specialization of Landscape managment and GIS<br>
 - **Bachelor of Science** at Kookmin University, South Korea<br>
-Forestry, Environment and System, focused on Ecology<br>
+Forestry, Environment and System<br>
 
 ### Skills
 - **GIS/RS Skills:** ArcGIS, eCognition, PCI Geomatica <br>
