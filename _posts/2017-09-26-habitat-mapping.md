@@ -2,7 +2,7 @@
 layout: post
 title: Habitat Mapping
 image: 
-tags: [habitat, forestry]
+tags: [habitat, forestry, national park]
 bigimg: 
 comments: true
 ---
@@ -17,4 +17,4 @@ And then I compared the refined vegetation map with the classification result ac
 
 **Habitat map result**
 
-![june](/img/june.jpg)
+![june](/img/June.jpg)
