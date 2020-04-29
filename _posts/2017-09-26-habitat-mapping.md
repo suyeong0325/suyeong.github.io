@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Habitat Mapping
-image: /img/20200429.jpg
+image: /img/icon_habitat.jpg
 tags: [habitat, forestry, national park]
 bigimg: /img/20200429.jpg
 comments: true
