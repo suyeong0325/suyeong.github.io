@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Water Hyacinth Dispersion Changes
-image: /img/icon_wh.jpg
+image: /img/icon_wh.JPG
 tags: [habitat, water hyacinth, water weed, lake, wetland]
 bigimg: /img/wh_main2.jpg
 comments: true
