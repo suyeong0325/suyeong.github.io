@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Water Hyacinth Dispersion Changes
-image: 
+image: /img/wh_main.jpg
 tags: [habitat, water hyacinth]
-bigimg: 
+bigimg: /img/wh_main.jpg
 comments: true
 ---
 
