@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Habitat Mapping
-image: 
+image: /img/20200429.jpg
 tags: [habitat, forestry, national park]
-bigimg: 
+bigimg: /img/20200429.jpg
 comments: true
 ---
 The main task was to classify habitat map of the transect areas in a national park. There are 4 sample transection areas defined as sample area for the research in Nationalpark Bayerischer Wald, Germany. Sampling transects were selected from low to high altitude area, therefore each transects could include environmentally, altitudinally diverse area.
