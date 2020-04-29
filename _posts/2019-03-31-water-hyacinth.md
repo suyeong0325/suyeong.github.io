@@ -11,7 +11,7 @@ Water hyacinth (Eichhornia crassipes) is called the world’s worst aquatic weed
 
 ![map_frame](/img/frame_main.jpg)
 
-This thesis aims to evaluate those classification technologies for water hyacinth detection using satellite images and to analyze water hyacinth dispersion changes in Lake Tana of Ethiopia. Landsat-5 TM (2011) and Landsat-8 OLI (2013-2018) imagery were used for the analysis.
+The aim of my master thesis was to evaluate those classification technologies for water hyacinth detection using satellite images and to analyze water hyacinth dispersion changes in Lake Tana of Ethiopia. Landsat-5 TM (2011) and Landsat-8 OLI (2013-2018) imagery were used for the analysis.
 
 ![map_ndvi](/img/20180924_mappedndvi.jpg)
 ![map_fai](/img/20180924_mappedfai.jpg)
