@@ -8,8 +8,6 @@ comments: true
 ---
 The main task was to classify habitat map of the transect areas in a national park. There are 4 sample transection areas defined as sample area for the research in Nationalpark Bayerischer Wald, Germany. Sampling transects were selected from low to high altitude area, therefore each transects could include environmentally, altitudinally diverse area.
 
-![hab_sat](/img/hab_sat.jpg)
-
 Manual editing was used for the main methodology, and RGB (Red, green, blue) and CIR satellite imagery of the area were provided for the task.
 The same classification hierarchy as the land use report of Nationalpark Bayerischer Wald and Šumava in 2008 by GEODIS was applied for the continuity of the map. According to the former report, there were classes of water bodies, rocks, build-up-areas, roads, natural meadows, cultivated meadows, transition zone, scrub pine, clear-cut area, dead wood(standing/lying), regeneration(coniferous/deciduous/mixed) and forest area. Then forest areas were categorized into 3 groups of coniferous, deciduous and mixed, and each category was subdivided into young (up to 6m), medium (6-20m) and mature (20m) stands.
 
