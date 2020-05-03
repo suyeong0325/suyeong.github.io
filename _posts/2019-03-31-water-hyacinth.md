@@ -16,8 +16,8 @@ The aim of my master thesis was to compare pixel-based classification technologi
 ![map_ndvi](/img/20180924_mappedndvi.jpg)
 ![map_fai](/img/20180924_mappedfai.jpg)
 
-Three pixel-based classification techniques (slicing with NDVI threshold, slicing with FAI combined with NDWIGreen,SWIR, and maximum likelihood) and Object-based classification approach were applied to the sample image.
-For pixel-based classifications, NDVI showed the lowest overall accuracy (90.8%), while maximum likelihood showed better overall accuracy (94.5%) and FAI combined with NDWIGreen,SWIR showed similar overall accuracy (95.3%). For object-based classification with a ruleset, it showed the highest overall accuracy (98.9%) for the detection of water hyacinth area. Therefore, object-based image classification proved to be a reliable technology for water hyacinth detection.
+Three pixel-based classification techniques (slicing with NDVI threshold, slicing with FAI combined with NDWI(Green,SWIR), and maximum likelihood) and Object-based classification approach were applied to the sample image.
+For pixel-based classifications, NDVI showed the lowest overall accuracy (90.8%), while maximum likelihood showed better overall accuracy (94.5%) and FAI combined with NDWI(Green,SWIR) showed similar overall accuracy (95.3%). For object-based classification with a ruleset, it showed the highest overall accuracy (98.9%) for the detection of water hyacinth area. Therefore, object-based image classification proved to be a reliable technology for water hyacinth detection.
 
 **2011~2018 classification result**
 
