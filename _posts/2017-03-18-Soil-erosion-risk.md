@@ -2,7 +2,7 @@
 layout: post
 title: Soil Erosion Risk Analysis
 image: /img/soil_sat.png
-tags: [LULC, Soil erosion risk, LANDSAT]
+tags: [LULC, Soil erosion risk, LANDSAT, arcGIS]
 bigimg: /img/soil_sat.png
 comments: true
 ---
