@@ -2,7 +2,7 @@
 layout: post
 title: Water Hyacinth Dispersion Changes
 image: /img/icon_wh.JPG
-tags: [Water hyacinth, eCognition, R, object-based classification, Ethiopia, wetland]
+tags: [Water hyacinth, eCognition, R, object-based classification, Ethiopia]
 bigimg: /img/wh_main2.jpg
 comments: true
 ---
