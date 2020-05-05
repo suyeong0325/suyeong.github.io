@@ -6,9 +6,29 @@ tags: [Python, API, SQL, Real Estate, Market Price]
 bigimg: /img/header_apt.JPG
 comments: true
 ---
+
 The aim of the project is to create a spatial map of market prices of apartments in Seoul, South Korea. Real estate transection histories in 2019 is acquired from the official website of Ministry of Land, Infrastructure and Transport, South Korea (http://rtdown.molit.go.kr/).
 
 **Per 1000**
+
+
+Here's a code chunk:
+
+~~~
+var foo = function(x) {
+  return(x + 5);
+}
+foo(3)
+~~~
+
+And here is the same code with syntax highlighting:
+
+```javascript
+var foo = function(x) {
+  return(x + 5);
+}
+foo(3)
+```
 
 And here is the same code yet again but with line numbers:
 
