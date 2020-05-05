@@ -10,6 +10,26 @@ The aim of the project is to create a spatial map of market prices of apartments
 
 **Per 1000**
 
+And here is the same code yet again but with line numbers:
+
+{% highlight javascript linenos %}
+var foo = function(x) {
+  return(x + 5);
+}
+foo(3)
+{% endhighlight %}
+
+
+And here is the same code yet again but with line numbers:
+
+{% highlight python linenos %}
+var foo = function(x) {
+  return(x + 5);
+}
+foo(3)
+{% endhighlight %}
+
+
 ![per1000](/img/per_1000.JPG)
 
 
