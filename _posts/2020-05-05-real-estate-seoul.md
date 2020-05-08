@@ -30,7 +30,7 @@ for i in range(0, 6107): #6107 rows
         continue
 ~~~
 
-Kakao provides local API that converts address to coordinates based on WGS-1984. Since the DB of API has its limitation due to the transition to the new address system in South Korea, 37 rows out of 80,000 rows recieved null values.
+Kakao provides local API that converts address to coordinates based on WGS-1984. Since the DB of API has its limitation due to the transition to the new address system in South Korea, 27 rows are recieved as null values.
 
 **Visualization of prices according to coordinates**
 
