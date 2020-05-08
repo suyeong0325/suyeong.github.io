@@ -7,7 +7,7 @@ bigimg: /img/header_apt.JPG
 comments: true
 ---
 
-The aim of the project is to create a spatial map of market prices of apartments in Seoul, South Korea to review what I learned from online courses about Python/API/SQL. Real estate transection histories in 2019 is acquired from the official website of Ministry of Land, Infrastructure and Transport, South Korea (http://rtdown.molit.go.kr/), and modified with a few simple SQL queries in IBM DB to derive average prices of each address.
+The aim of the project is to create a spatial map of market prices of apartments in Seoul, South Korea to review what I learned from online courses about Python/API/SQL. Real estate transection histories in 2019 is acquired from the official website of Ministry of Land, Infrastructure and Transport, South Korea (http://rtdown.molit.go.kr/), and modified with simple SQL queries in IBM DB to derive average prices of each address.
 
 
 **Convert address to sub-region and xy coordinates using Kakao-local API**
