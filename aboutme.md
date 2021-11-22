@@ -11,8 +11,8 @@ Sustainable Resource Management, specialization of Landscape managment and GIS<b
 Forestry, Environment and System<br>
 
 ### Skills
-- **GIS/RS Skills:** ArcGIS, QGIS, eCognition, PCI Geomatica <br>
-- **Programming Skills:** R, Python (Basic), SQL (Basic) <br>
+- **GIS/RS Skills:** ArcGIS, QGIS, eCognition, GDAL, PCI Geomatica <br>
+- **Programming Skills:** Python, R, C++, SQL <br>
 - **Other Skills:** Microsoft Office, Photoshop
 - **Personal Skills:** Motivated, Flexibility, Curiosity, Willingness to learn <br>
 
