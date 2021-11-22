@@ -17,6 +17,8 @@ Forestry, Environment and System<br>
 - **Personal Skills:** Motivated, Flexibility, Curiosity, Willingness to learn <br>
 
 ### Experience
+- **GIS modeller** at WSC Scientific GmbH, Germany (Jul 2020 - present)<br>
+GIS-based modeling and risk assessment of pesticide exposure and developing features<br>
 - **Teaching Assistant** at Technical University of Munich, Germany (Nov 2017-Feb 2018)<br>
 Assist teaching in the introduction of GIS and tutorial<br>
 - **Remote Sensing and GIS Intern** at Bavarian Forest National Park, Germany (May 2017-July 2017)<br>
