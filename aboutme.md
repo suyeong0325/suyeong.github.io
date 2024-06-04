@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Su Yeong Park
-subtitle: GIS, Remote Sensing, Data science and Forestry
+subtitle: GIS, Remote Sensing, Data science and Development
 ---
 
 ### Educations
