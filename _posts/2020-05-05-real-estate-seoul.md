@@ -56,5 +56,3 @@ Map([
 
 ![per_area](/img/per_area.jpg)
 
-
-Currently working on the predicting the real estate price using machine learning techniques and visualization.
