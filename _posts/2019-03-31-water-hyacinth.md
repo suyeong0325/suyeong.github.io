@@ -10,6 +10,7 @@ comments: true
 Water hyacinth (Eichhornia crassipes) is called the world’s worst aquatic weed because of its extremely rapid growth. It creates thick mats that deplete nutrients of freshwater by blocking oxygen and solar radiation and consequently induces habitat destruction. However, field observation of water hyacinth is difficult due to its habitat feature. Therefore, the number of remote sensing technologies applications on water hyacinth monitoring has increased.
 
 ![map_frame](/img/frame_main.jpg)
+![map_frame](https://suyeong0325.github.io/suyeong.github.io/img/frame_main.jpg)
 
 The aim of my master thesis was to compare pixel-based classification technologies to object-based classification that were used in previous studies for the water hyacinth detection using satellite images and to analyze water hyacinth dispersion changes in Lake Tana of Ethiopia. Landsat-5 TM (2011) and Landsat-8 OLI (2013-2018) imagery were used for the analysis.
 
