@@ -49,10 +49,10 @@ Map([
 
 **Apartment Prices in Seoul, South Korea (2019)**
 
-![per1000](/img/per_1000.JPG)
+![per1000](https://suyeong0325.github.io/suyeong.github.io/img/per_1000.JPG)
 
 
 **Apartment Prices in Seoul, South Korea (2019) - Per sqaure meter**
 
-![per_area](/img/per_area.jpg)
+![per_area](https://suyeong0325.github.io/suyeong.github.io/img/per_area.jpg)
 
